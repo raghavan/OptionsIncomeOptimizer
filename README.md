@@ -1,5 +1,12 @@
 # OptionsIncomeOptimizer
 
+# Example
+## Input
+<img width="324" alt="Screenshot 2024-04-10 at 9 47 09 PM" src="https://github.com/raghavan/OptionsIncomeOptimizer/assets/131585/f9585d2a-df08-4f92-869a-e49a2883ae29">
+
+## Output
+<img width="384" alt="Screenshot 2024-04-10 at 9 46 56 PM" src="https://github.com/raghavan/OptionsIncomeOptimizer/assets/131585/3ba0990a-2cc9-4691-ac19-3bc08f9cdf18">
+
 OptionsIncomeOptimizer is a Python-based tool designed to help options traders maximize their daily income by identifying the most profitable put options to sell. By analyzing real-time options data from Yahoo Finance, OptionsIncomeOptimizer suggests the best put selling opportunities based on user-defined criteria such as capital, expiration date limit, and underlying stock tickers.
 
 Key Features:
